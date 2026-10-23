@@ -10,21 +10,25 @@
 - AI視覺生成: 使用ComfyUI製作角色圖片，透過Lora與工作流維持角色形象及美術風格一致性
 - 效果評估: 透過實際輸出品質與社群下載回饋，判斷作品表現
 
+技術應用: 生成式AI應用、提示詞設計、Token優化、ComfyUI、AI視覺生成
+
 公開平台成果（截至2026年10月）
 - 創作平台規模： 共129個公開角色提示詞項目
 - 個人投稿： 累計投稿5個角色提示詞作品
 - 塞西莉亞： 單人角色提示詞下載量第1名，平台整體下載量第4名
 - 伊莉絲： 單人角色提示詞下載量第3名，平台整體下載量第9名
 
-技術應用: 生成式AI應用、提示詞設計、Token優化、ComfyUI、AI視覺生成
+創作平台角色累計下載量排名:
 
-伊莉丝·洛蕾塔·德维尔:
-
-<img width="438" height="640" alt="genimage-04326" src="https://github.com/user-attachments/assets/49aab26b-b87d-4d92-835e-4cace664b719" />
+<img width="1210" height="767" alt="創意工坊下載量排名_v1" src="https://github.com/user-attachments/assets/ccde5a4f-d2cb-4e08-b9e2-c10b1125d814" />
 
 塞西莉亚·范·德维尔:
 
 <img width="438" height="640" alt="genimage-03781" src="https://github.com/user-attachments/assets/166c045c-5857-47b8-9273-96f00e21d219" />
+
+伊莉丝·洛蕾塔·德维尔:
+
+<img width="438" height="640" alt="genimage-04326" src="https://github.com/user-attachments/assets/49aab26b-b87d-4d92-835e-4cace664b719" />
 
 伊莉雅·银叶:
 
