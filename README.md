@@ -31,4 +31,10 @@
 
 <img width="438" height="640" alt="Comfy-UI-00750" src="https://github.com/user-attachments/assets/8e81d11d-dba9-4c06-9be4-307991f1d91f" />
 
+尤菲米娅·波音:
+
+<img width="466" height="667" alt="genimage-05414" src="https://github.com/user-attachments/assets/ad59efca-5cb1-498f-825f-a9d4c2605e42" />
+
+
+
 
